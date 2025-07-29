@@ -49,7 +49,7 @@ We use a **Random Forest Regressor** to predict the `Global_Sales` target variab
 
 ---
 
-## 📦 Dependencies
+## 🧰 Libraries Used
 
 - `pandas`  
 - `numpy`  
