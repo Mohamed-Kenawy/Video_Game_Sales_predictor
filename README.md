@@ -1,6 +1,7 @@
 This code performs data analysis and machine learning modeling on a dataset of video game sales. The goal is to explore global sales trends and build a predictive model for estimating global game sales based on various features.
 
-📂 Dataset
+
+📂 Dataset:
 
 The dataset contains sales figures for various video games across different platforms and regions. Features include:
 
@@ -18,7 +19,8 @@ Sales by region (NA, EU, JP, Other)
 
 Global Sales
 
-📊 Exploratory Data Analysis (EDA)
+
+📊 Exploratory Data Analysis (EDA):
 
 We conduct thorough EDA using pandas, matplotlib, and seaborn, including:
 
@@ -30,11 +32,14 @@ We conduct thorough EDA using pandas, matplotlib, and seaborn, including:
 
 📌 Top 10 publishers by global sales
 
-🤖 Machine Learning Model
+
+
+🤖 Machine Learning Model:
 
 We use a Random Forest Regressor to predict the Global_Sales target variable.
 
 Steps:
+
 Data Preprocessing
 
 Dropped unnecessary columns
@@ -56,6 +61,8 @@ Model evaluation using:
 R² Score
 
 Mean Squared Error (MSE)
+
+
 
 🔁 Cloning the Repository:
 
